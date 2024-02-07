@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hey, I'm Julien Hu! 🚀
 Welcome to my GitHub! I'm navigating through my Bachelor of Science in Computer Science at École de Technologie Supérieure (ÉTS) in Montreal, aiming for graduation in 2026. My tech journey is fueled by a zeal for creating impactful solutions and a commitment to excelling in software development.
 
