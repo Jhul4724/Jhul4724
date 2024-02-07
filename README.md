@@ -3,7 +3,9 @@ Welcome to my GitHub! I'm navigating through my Bachelor of Science in Computer 
 
 ### A Bit About Me...
 Programming Languages: I'm proficient in C, Python, Flutter/Dart, Java, HTML5, CSS3, JavaScript. My enthusiasm for learning extends beyond programming languages to encompass human languages as well.
+
 Frameworks & Tools: Experienced with Angular, Bash, PowerShell, PHP, Ubuntu, Linux, jQuery, AJAX, SVG, XML, SQL. I believe in using the right tools to craft impeccable solutions.
+
 Interests: I am deeply interested in full stack development, AI, and cybersecurity. I'm particularly passionate about the intersection of technology and real-world impact, which drives me to participate in hackathons and contribute to meaningful projects.
 
 ### Hackathons: A Journey of Impact
