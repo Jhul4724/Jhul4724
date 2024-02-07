@@ -18,7 +18,10 @@ HackaPlant @PolyHacks 2023: A React Native application that, with the help of an
 
 ### Experience
 Innova Tech (2020 – Present): As a Computer Hardware Technician, I tackle system assembly and troubleshooting, software installations, and provide essential technical support.
+
 Department of National Defence (2018 – Present): Leading as a Senior Coach, I focus on teaching sailing, promoting leadership, safety, and the development of skills.
+
+
 Let's Connect
 I'm keen on exploring collaborative opportunities and engaging with the tech community. If you're interested in making a difference or just want to chat about technology, feel free to reach out!
 
